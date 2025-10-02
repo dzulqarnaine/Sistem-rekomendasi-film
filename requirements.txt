@@ -1,0 +1,7 @@
+numpy==2.3.3
+pandas==2.3.3
+scikit_learn==1.7.2
+streamlit==1.43.0
+streamlit_option_menu==0.4.0
+torch==2.4.0
+transformers==4.50.3
